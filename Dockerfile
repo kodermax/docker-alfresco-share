@@ -14,7 +14,7 @@ RUN set -x && \
       -o /root/alfresco-mmt.jar && \
       mkdir /root/amp
 
-ENV ALF_VERSION=5.2.e
+ENV ALF_VERSION=5.2.f
 
 ## SHARE.WAR
 RUN set -x && \
